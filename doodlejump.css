@@ -1,0 +1,11 @@
+body {
+    /*This aligns our canvas to the center of the page*/
+    text-align: center;
+}
+
+    /*board is a reference to the canvas tag id */
+    /*sets background color to green*/
+#board {
+    /*background-color: green;*/
+    background-image: url("./doodlejumpbg.png"); /*We are now using an image instead of a color*/
+}
